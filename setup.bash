@@ -1,4 +1,5 @@
 #!/bin/bash -xve
+#written by kenjiinukai
 
 exec 2> /tmp/setup.log
 cd /home/ubuntu/RaspberryPiMouse/src/drivers/
